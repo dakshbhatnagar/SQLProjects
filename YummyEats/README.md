@@ -1,8 +1,5 @@
-# SQL Projects Repository
-
-Welcome to my SQL projects repository! This collection includes a variety of SQL projects that I have worked on. Each project folder consists of SQL scripts, data files, and relevant documentation.
-
-## Restaurant Data Analysis Project
+## YummyEats Data Analysis Project
+Welcome to the repository! This collection includes a variety of SQL projects that I have worked on. Each project folder consists of SQL scripts, data files, and relevant documentation.
 
 Explore the insights derived from analyzing restaurant data, including customer preferences, popular dishes, and business trends.
 
