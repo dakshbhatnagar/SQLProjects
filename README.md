@@ -1,13 +1,13 @@
 # SQL Projects Repository
 
-This repository contains a collection of SQL projects that I regularly update. Each project is organized in its respective folder, including the SQL queries and associated data.
+This repository contains a collection of SQL projects that I am going to regularly update. Each project is organized in its respective folder, including the SQL queries and associated data.
 
 ## How to Clone this Repository
 
 To get started with these SQL projects on your local machine, you can clone this repository using the following command:
 
 ```bash
-git clone https://github.com/dakshbhatnagar/SQLProjectss.git
+git clone https://github.com/dakshbhatnagar/SQLProjects.git
 ```
 
 ## Project Structure
@@ -27,8 +27,8 @@ The projects are organized into folders, each focusing on a specific SQL project
 ├── project-2
 │   ├── queries.sql
 │   ├── data.sql
-│   ├── README.md
+│  
 └── ...
 ```
 
-Happy SQL coding! 🚀
+Happy SQL-ing! 🚀
