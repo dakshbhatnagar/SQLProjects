@@ -117,7 +117,7 @@ GROUP BY empname
 HAVING SUM(LeaveBal) > 20
 ORDER BY LeaveBalance DESC;
 
--- Which individuals have salaries below the average salary, considering both gender and job title?
+-- 10) Which individuals have salaries below the average salary, considering both gender and job title?
 
 with cte as (
         SELECT *, 
@@ -127,4 +127,20 @@ with cte as (
 select *, AvgSalary-Salary as DiffSalary 
   from cte 
   where Salary = AvgSalary;
+
+-- 11) jobtitle where LeaveBalance is greater than total avg leave balance
+select * from (select distinct jobtitle, round(avg(LeaveBal) over(partition by JobTitle),2) as AvgLeaveBal, 
+(select avg(LeaveBal) from hrdata) as TotalAvgLeaveBal 
+from hrdata) x
+where AvgLeaveBal < TotalAvgLeaveBal
+  order by AvgLeaveBal desc;
+
+-- 12) jobtitle where LeaveBalance is less than total avg leave balance
+
+select * from (select distinct jobtitle, round(avg(LeaveBal) over(partition by JobTitle),2) as AvgLeaveBal, 
+(select round(avg(LeaveBal),2) from hrdata) as TotalAvgLeaveBal 
+from hrdata) x
+where AvgLeaveBal > TotalAvgLeaveBal
+order by AvgLeaveBal asc
+
 
