@@ -8,6 +8,7 @@ To get started with these SQL projects on your local machine, you can clone this
 
 ```bash
 git clone https://github.com/dakshbhatnagar/SQLProjects.git
+cd SQLProjects
 ```
 
 ## Project Structure
