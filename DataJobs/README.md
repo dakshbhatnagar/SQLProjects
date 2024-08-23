@@ -89,4 +89,6 @@ The dataset consists of various fields related to jobs, including:
 
 ### Employment Type Analysis
 
-- We reviewed employment types (e.g., full-time, part-time, contract) to understand their impact on compensation. - Full-time roles offer the most stability and highest average salaries, while contract positions provide flexibility but often come with lower earnings.
+- We reviewed employment types (e.g., full-time, part-time, contract) to understand their impact on compensation. 
+
+- Full-time roles offer the most stability and highest average salaries, while contract positions provide flexibility but often come with lower earnings.
