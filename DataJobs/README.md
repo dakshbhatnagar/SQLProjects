@@ -60,7 +60,9 @@ The dataset consists of various fields related to jobs, including:
 
 ### Top-Paying Work Settings
 
-- Work environment preferences were analyzed, comparing the average salaries for in-person, remote, and hybrid roles. - The analysis revealed that remote roles tend to have slightly higher average salaries, reflecting the premium placed on flexible work arrangements.
+- Work environment preferences were analyzed, comparing the average salaries for in-person, remote, and hybrid roles.
+
+- The analysis revealed that remote roles tend to have slightly higher average salaries, reflecting the premium placed on flexible work arrangements.
 
 ### Experience Level and Salary
 
