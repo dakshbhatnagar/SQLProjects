@@ -1,8 +1,12 @@
-Unveiling HR Data Insights: A Multifaceted Exploration with SQL, Google Sheets, Python, and Tableau
+## Unveiling HR Data Insights
 
-Hey Data Enthusiasts!
+**A Multifaceted Exploration with SQL, Google Sheets, Python, and Tableau**
 
-I've been on an exhilarating journey recently, delving into the intricate world of data jobs. Armed with SQL, Google Sheets, Python, and Tableau, I embarked on a comprehensive analysis to unravel key insights. Here's a glimpse into the fascinating questions I tackled and the answers uncovered:
+Hey!
+
+I've been on an exhilarating journey recently, delving into the intricate world of data jobs. Armed with SQL, Google Sheets, Python, and Tableau, 
+
+I embarked on a comprehensive analysis to unravel key insights. Here's a glimpse into the fascinating questions I tackled and the answers uncovered:
 
 1) **How many people are in each job?** - Leveraging SQL for a meticulous headcount analysis, breaking down the workforce by job roles.
 
@@ -25,4 +29,6 @@ Ready to dive deeper into the data? Check out the complete project :
 - [SQL](https://github.com/dakshbhatnagar/SQLProjects/blob/main/HRData/hrdata.sql)
 - [Google Sheets](https://docs.google.com/spreadsheets/d/1lwlEvrsFU1KSj5ZIiyMtdJumEe0XmGajgKIBqkA8qQU/edit#gid=398584065)
 - [Python](https://jovian.com/bhatnagar91/hr-data-analysis)
-- [Tableau](https://public.tableau.com/app/profile/daksh.bhatnagar/viz/HRDashboard_17062781484950/Dashboard1?publish=yes) 
+- [Tableau](https://public.tableau.com/app/profile/daksh.bhatnagar/viz/HRDashboard_17062781484950/Dashboard1?publish=yes)
+
+Thanks!
