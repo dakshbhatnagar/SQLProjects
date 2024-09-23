@@ -3,7 +3,7 @@
 ## Overview
 This report provides key insights into YummyEats' order data using SQL queries. The dataset includes information on orders, customers, restaurants, cuisine types, and associated metrics such as order cost, preparation time, delivery time, takeaways, and ratings.
 
-![image}(https://assets.cntraveller.in/photos/6517a5aa2f98f695fe4e5cdc/16:9/w_1024%2Cc_limit/GIGI%2520001.jpg)
+![image](https://assets.cntraveller.in/photos/6517a5aa2f98f695fe4e5cdc/16:9/w_1024%2Cc_limit/GIGI%2520001.jpg)
 
 ### Key Metrics
 1. **Average Order Metrics**:
