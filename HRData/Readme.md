@@ -1,34 +1,47 @@
+HRData/Readme.md
 ## Unveiling HR Data Insights
 
-**A Multifaceted Exploration with SQL, Google Sheets, Python, and Tableau**
+**Exploring HR Data with SQL, Google Sheets, Python, and Tableau**
 
-Hey!
+![HR Analytics](https://b1948610.smushcdn.com/1948610/wp-content/uploads/2022/12/HR-Analytics.png?lossy=1&strip=1&webp=1)
 
-I've been on an exhilarating journey recently, delving into the intricate world of data jobs. Armed with SQL, Google Sheets, Python, and Tableau, 
 
-I embarked on a comprehensive analysis to unravel key insights. Here's a glimpse into the fascinating questions I tackled and the answers uncovered:
 
-1) **How many people are in each job?** - Leveraging SQL for a meticulous headcount analysis, breaking down the workforce by job roles.
+Hello!
 
-2) **Gender Break-down of the Staff** - Google Sheets came to the rescue as I curated a detailed gender distribution analysis, shedding light on the diversity landscape.
+I recently embarked on an exciting journey into the world of data jobs, utilizing SQL, Google Sheets, Python, and Tableau to uncover valuable insights. Here’s a summary of the key questions I explored:
 
-3) **Age Spread of the Staff** - Python worked its magic to help visualize the age demographics, providing a clear picture of the team's generational diversity.
+### Key Insights:
 
-4) **Which Jobs Pay More?** - SQL and Python collaborated to dissect salary data, revealing the top-paying jobs in the data realm.
+1. **Workforce Distribution**: 
+   - Analyzed the number of employees in each job role using SQL.
 
-5) **Top Earners in Each Job**- With Tableau, I crafted interactive visualizations showcasing the top earners within each job category.
+2. **Gender Diversity**: 
+   - Created a detailed gender distribution analysis with Google Sheets.
 
-6) **Qualification vs. Salary**- Google Sheets played a pivotal role in mapping qualifications against salary brackets, unraveling the correlation between education and earnings.
+3. **Age Demographics**: 
+   - Visualized age distribution using Python to understand generational diversity.
 
-7) **Staff Growth Trend Over Time** - SQL stepped in again to analyze historical data, uncovering trends in staff growth over different time periods.
+4. **Salary Insights**: 
+   - Dissected salary data to identify the highest-paying jobs with SQL and Python.
 
-8) **Leave Balance Analysis** - Python's analytical prowess was harnessed to conduct a comprehensive analysis of leave balances, providing insights into employee well-being.
+5. **Top Earners**: 
+   - Developed interactive visualizations in Tableau to showcase top earners by job category.
 
-Ready to dive deeper into the data? Check out the complete project :
+6. **Education vs. Salary**: 
+   - Mapped qualifications against salary brackets using Google Sheets to reveal correlations.
 
-- [SQL](https://github.com/dakshbhatnagar/SQLProjects/blob/main/HRData/hrdata.sql)
-- [Google Sheets](https://docs.google.com/spreadsheets/d/1lwlEvrsFU1KSj5ZIiyMtdJumEe0XmGajgKIBqkA8qQU/edit#gid=398584065)
-- [Python](https://jovian.com/bhatnagar91/hr-data-analysis)
-- [Tableau](https://public.tableau.com/app/profile/daksh.bhatnagar/viz/HRDashboard_17062781484950/Dashboard1?publish=yes)
+7. **Staff Growth Trends**: 
+   - Analyzed historical data with SQL to uncover trends in staff growth over time.
 
-Thanks!
+8. **Leave Balance Analysis**: 
+   - Conducted a comprehensive analysis of leave balances using Python to gain insights into employee well-being.
+
+### Explore the Project:
+
+- **[SQL Analysis](https://github.com/dakshbhatnagar/SQLProjects/blob/main/HRData/hrdata.sql)**
+- **[Google Sheets Report](https://docs.google.com/spreadsheets/d/1lwlEvrsFU1KSj5ZIiyMtdJumEe0XmGajgKIBqkA8qQU/edit#gid=398584065)**
+- **[Python Notebook](/HRData/PySpark_Starter.ipynb)**
+- **[Tableau Dashboard](https://public.tableau.com/app/profile/daksh.bhatnagar/viz/HRDashboard_17062781484950/Dashboard1?publish=yes)**
+
+Thank you for your interest!
